@@ -8,7 +8,7 @@ The site that no one needed:
 
 |Area Code | Image | Description|
 |---|---|---|
-|201| ![](images/201.png) | **Created**: North Jersey|
+|201| ![](images/201.png | width=100) | **Created**: North Jersey|
 |202| ![](images/202.png) | **Accepted**: Washington DC|
 |203| ![](images/203.png) | **Non-Authoritative Information**: Western Connecticut|
 |204| ![](images/204.png) | **No Content**: Manitoba|
