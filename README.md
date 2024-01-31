@@ -40,7 +40,7 @@ The site that no one needed:
 |416 | |**Request Range Not Satisfiable** Toronto, ON|
 |417 | <img src ="images/417.gif" width=200> |**Expectation Failed** SW Missouri|
 |418 |<img src ="images/418.jpg" width=200> |**I am a teapot** Quebec, QC|
-|501 |<img src ="images/501.png" width=200> |**Not Implemented** Little Rock, AK|
+|501 |<img src ="images/501.png" width=200> |**Not Implemented** Little Rock, AR|
 |502 |<img src ="images/502.png" width=200> |**Bad Gateway** Louisville, KY|
 |503 |<img src ="images/503.png" width=200> |**Service Unavailable** Portland, OR|
 |504|<img src ="images/504.png" width=200> |**Gateway Timeout** New Orleans, LA|
