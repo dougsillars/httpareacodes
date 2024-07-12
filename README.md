@@ -45,7 +45,7 @@ The site that no one needed:
 |503 |<img src ="images/503.png" width=200> |**Service Unavailable** Portland, OR|
 |504|<img src ="images/504.png" width=200> |**Gateway Timeout** New Orleans, LA|
 |507|<img src ="images/507.png" width=200> |**Insufficient Storage** Southern Minnesota|
-|508|<img src ="images/508.jpg" width=200> |**Loop Detected** Worchester, MA|
+|508|<img src ="images/508.jpg" width=200> |**Loop Detected** Worcester, MA|
 |509|<img src ="images/509.png" width=200> |**Bandwidth limit Exceeded** Eastern Washington|
 
 |Other Interesting numbers | Image | Description|
